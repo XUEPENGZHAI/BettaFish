@@ -142,7 +142,7 @@ cython_debug/
 *.xml
 
 # Visual Studio Code
-.vscode/
+# .vscode/ - 不忽略，用于团队共享配置
 
 # macOS
 .DS_Store
